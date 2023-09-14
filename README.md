@@ -1,6 +1,8 @@
 # Maneki Neko Wave Counter
 
-Have you ever wondered how many waves a Maneki Neko performs in a full day of work? Or have you ever been worried that your Maneki Neko has been slacking off? Well...now you can. This simple Arduino project uses an LCD shield and IR sensor to count Maneki Neko waves. 
+Have you ever wondered how many waves a Maneki Neko performs in a full day of work? Or have you ever been worried that your Maneki Neko has been slacking off? Well...now you can know the answer to these questions and more. 
+
+This simple Arduino project uses an LCD shield and IR sensor to watch your Maneki Neko work day and night. 
 
 Our formula for counting waves is a scientifically proven algorithm to make sure your Maneki Neko is performing perfect wave every time. And as a bonus, our LCD is configured with a full rainbow of background colors.
 
