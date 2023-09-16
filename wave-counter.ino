@@ -54,7 +54,7 @@ void setup() {
     Serial.begin(9600);
   }
   lcd.init();
-  setLcdBg(kGreen);
+  setLcdBg(colors[colorIndex]);
   lcd.print(kLcdText);
   updateLcdWaveCount(waveCount);
 }
