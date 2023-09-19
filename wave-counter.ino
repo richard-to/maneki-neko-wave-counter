@@ -47,7 +47,7 @@ bool hasPressedSelect = false;
 // Tracks a hand wave.
 bool hasWaved = false;
 // Number of hand waves.
-int waveCount = 0;
+unsigned long waveCount = 0;
 
 void setup() {
   if (DEBUG) {
@@ -132,7 +132,7 @@ void setLcdBg(Rgb color) {
 }
 
 // Updates the wave count on the LCD display.
-void updateLcdWaveCount(int count) {
+void updateLcdWaveCount(unsigned long count) {
   lcd.setCursor(0, 1);  
   lcd.print(count);
 }
