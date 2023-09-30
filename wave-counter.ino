@@ -46,7 +46,7 @@ int colorIndex = 0;
 bool hasPressedSelect = false;
 // Tracks a hand wave.
 bool hasWaved = false;
-// Number of hand waves.
+// Number of hand waves (4,294,967,295 max).
 unsigned long waveCount = 0;
 
 void setup() {
