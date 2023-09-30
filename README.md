@@ -43,10 +43,12 @@ The Sharp IR Sensor has three pins:
 - Power
 - Ground
 
-![Sharp IR Sensor to Arduino wiring side view](https://github.com/richard-to/maneki-neko-wave-counter/assets/539889/2974373d-a171-4a36-8202-1a8ff54b8a22)
+![Sharp IR Sensor to Arduino wiring](https://github.com/richard-to/maneki-neko-wave-counter/assets/539889/37e39d9c-4eee-410d-a40d-002e31134ceb)
 
 To connect the Sharp IR sensor to the Arduino, we need to connect the wires to the DF
 Robot LCD Shield which exposes multiple pins for sensors. We will use the A0 pin, but
 you can also use other analog pins.
 
-![Sharp IR Sensor to Arduino wiring](https://github.com/richard-to/maneki-neko-wave-counter/assets/539889/37e39d9c-4eee-410d-a40d-002e31134ceb)
+![Sharp IR Sensor to Arduino wiring side view](https://github.com/richard-to/maneki-neko-wave-counter/assets/539889/2974373d-a171-4a36-8202-1a8ff54b8a22)
+
+
